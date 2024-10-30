@@ -1,6 +1,6 @@
-# 🧳 YatraGenie ✨
+# 🧳 TravelGemnai ✨
 
-**YatraGenie** is your personal AI-powered travel assistant that makes planning your next adventure a breeze! Whether you're traveling solo or with friends, YatraGenie crafts personalized travel experiences tailored just for you. 🌍✈️
+**TravelGemnai** is your personal AI-powered travel assistant that makes planning your next adventure a breeze! Whether you're traveling solo or with friends, YatraGenie crafts personalized travel experiences tailored just for you. 🌍✈️
 
 ## 🌟 Features
 
@@ -12,20 +12,20 @@
 
 ## 🚀 Demo
 
-Check out the live demo of YatraGenie [here](https://yatra-genie-app.vercel.app/)
+Check out the live demo of TravelGemnai [here](https://yatra-genie-app.vercel.app/)
 
 ## 🛠️ Installation
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Bhuteshkumarmeher07/YatraGenie.git
+   git clone https://github.com/Rav09/TravelGemnai.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd YatraGenie
+   cd TravelGenai
    ```
 
 3. **Install dependencies:**
@@ -66,7 +66,7 @@ Check out the live demo of YatraGenie [here](https://yatra-genie-app.vercel.app/
 
 ## 🤝 Contributing
 
-I welcome contributions to YatraGenie! To contribute:
+I welcome contributions to TravelGenai! To contribute:
 
 1. **Fork the repository.**
 2. **Create a new branch** for your feature or bug fix.
